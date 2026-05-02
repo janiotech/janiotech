@@ -1,7 +1,7 @@
 <div align="center">
 <h1> Olá! Meu nome é Jânio Matos 👋</h1>
 
-<div style="display: inline-block;"><br>
+<div style="display: flex;"><br>
     <img width="40" height="30" src="https://skillicons.dev/icons?i=spring" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=java" />
     <img width="40" height="30" src="https://skillicons.dev/icons?i=html" />
